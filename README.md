@@ -62,7 +62,7 @@ README.md        # this file
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-username>/movieflix-dashboard.git
+   git clone https://github.com/chirag-memariya/MovieFlix.git
    cd movieflix-dashboard
    ```
 
